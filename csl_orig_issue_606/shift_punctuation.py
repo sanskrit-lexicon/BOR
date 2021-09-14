@@ -28,7 +28,9 @@ def find_punctuations(filein, reg):
 def correct_punctuations(filein, fileout):
 	fin = codecs.open(filein, 'r', 'utf-8')
 	fout = codecs.open(fileout, 'w', 'utf-8')
+	reg1 = "({#[^#]*)(,)([^#]*#})"
 	for lin in fin:
+		lin = re.sub("({#[^#]*)([,][ ]*)([^#]*#})", "\g<1>#}\g<2>{#\g<3>", lin)
 		fout.write(lin)
 	fin.close()
 	fout.close()
