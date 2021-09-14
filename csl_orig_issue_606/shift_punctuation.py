@@ -30,7 +30,7 @@ def correct_punctuations(filein, fileout):
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	reg1 = "({#[^#]*)(,)([^#]*#})"
 	for lin in fin:
-		lin = re.sub("({#[^#]*)([,.][ ]*)([^#]*#})", "\g<1>#}\g<2>{#\g<3>", lin)
+		lin = re.sub("({#[^#]*)([,.;][ ]*)([^#]*#})", "\g<1>#}\g<2>{#\g<3>", lin)
 		lin = lin.replace('{##}', '')
 		fout.write(lin)
 	fin.close()
