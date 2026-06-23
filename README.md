@@ -11,6 +11,7 @@ Development and correction repository for **Anundoram Borooah's *English-Sanskri
 | Path | Purpose |
 |---|---|
 | `csl_orig_issue_606/` | Batch correction for csl-orig issue #606: punctuation placement in Devanāgarī |
+| `prefaces/` | Front-matter OCR (title pages, forewords, prefaces, abbreviation lists, biography & obituaries) + EN/RU — see [Front matter](#front-matter-prefaces) below |
 | `CITATION.cff` | Machine-readable citation metadata |
 
 ## Timeline
@@ -19,6 +20,7 @@ Development and correction repository for **Anundoram Borooah's *English-Sanskri
 |---|---|
 | 2021-09 | Repository initialized; Devanāgarī punctuation corrections |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
@@ -119,6 +121,35 @@ flowchart LR
   O -->|csl-pywork build| X["bor.xml"]
   X --> A["csl-app web display"]
 ```
+
+## Front matter (`prefaces/`)
+
+[`prefaces/`](prefaces/) holds a faithful Markdown OCR of the **front matter** of Borooah's *English-Sanskrit Dictionary* (the 1971 Publication Board, Assam reprint) together with a Russian translation of every page and consolidated single-file editions. **36 pages** were transcribed: the publisher pages and V. Raghavan's Foreword, the Publication Board's Introduction, Borooah's own two Prefaces (to Volumes I and II), the abbreviation lists, the portrait and Sanskrit benediction, and the three back-of-volume Appendices (Short Biography, Appreciations, Obituaries — printed pages 773–783).
+
+- **Source:** Cologne front-matter index [borpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/borpref.html); scans under [`_images/`](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/_images/).
+- **File conventions:** `borprefNN.md` (English source, with Devanāgarī/IAST verbatim) and `borprefNN.ru.md` (Russian). The source is English, so there is **no `.en.md`** — the base `.md` is already English.
+- **Consolidated editions:** [borpref_all.en.md](prefaces/borpref_all.en.md) · [borpref_all.ru.md](prefaces/borpref_all.ru.md) — rebuilt reproducibly with [build_combined.py](prefaces/build_combined.py).
+- **In-folder index:** [prefaces/README.md](prefaces/README.md).
+- **Signatures / dates:** *Burdwan, May 9th, 1877* and *Goalpara, Oct. 27, 1878* (Borooah's two Prefaces, signed *A.B.*); *V. Raghavan, Madras, 10-2-71*; *Chandra Prasad Saikia, Secretary, Publication Board, Assam, July 1, 1971*.
+- **Notes:** the appendix scans jump to filenames `bor_Page_798`…`808`; digitizer/library stamps (the *Universität zu Köln · Institut für Indologie* seal, running headers/footers) are omitted; the Sanskrit benediction (page 25) is reproduced in Devanāgarī and not translated; dense unreadable conjuncts are marked `[?]`.
+
+<details>
+<summary><strong>OCR run notes (2026-06-23)</strong> — cost, timing, and technical lessons</summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents). Process retrospective, not part of the deliverable.
+
+**Cost.** Translation subagents (exact, from harness telemetry): 4 agents, ≈252k output tokens, 74 tool calls — EN→RU of pp. 02–08, 09–19, 20–25, 26–36 (each agent wrote its own `.ru.md` files). Main thread (estimate, dominated by the foreground native-resolution crop→read loop over ~25 newly-OCR'd pages plus the resumed pages 01–11): ≈900k–1.0M tokens. **Total ≈1.2 M tokens.**
+
+**Time.** Resumed run; wall-clock ≈55 min. Gated mainly by the gentle one-at-a-time scan download (the Cologne server had just recovered and was dropping connections — page 32 / scan 804 took five retries; pages 26–36 needed their true `_images` filenames discovered from each sub-page's HTML because the manifest's `…_026`-style names 404'd).
+
+**Technical lessons (reusable):**
+1. The toctree page order ≠ scan filename order: pages 26–36 are `bor_Page_798`…`808` (book pages 773–783), not `…_026`. When `_images/<guessed>.png` 404s, scrape the real `_images/...png` from `borpref/borprefNN.html`.
+2. Foreground `curl` + a short `sleep` retry loop is the right gentleness for a fragile server; validate the download with the PNG magic `89504e47`, because a 404 returns a ~26 KB HTML error page that passes a naïve size check.
+3. The early prose pages (vol. I/II prefaces) are noticeably skewed, which scrambles OCR line order within a band — reconstruct paragraph order logically rather than trusting top-to-bottom band reads.
+4. Abbreviation-list pages are two-column with titles that overrun the column split; crop the left column wider than the visual gutter or titles clip.
+5. Resume-safe writing (each `.md`/`.ru.md` to disk immediately) meant the already-present pages 01–11 and `borpref01.ru.md` were reused, not redone.
+
+</details>
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
