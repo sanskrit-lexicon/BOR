@@ -1,6 +1,10 @@
 # BOR — Borooah *English-Sanskrit Dictionary*
 
-Development and correction repository for **Anundoram Borooah's *English-Sanskrit Dictionary* (1877)** — an **English→Sanskrit** dictionary (English headwords, Sanskrit glosses), part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/bor/bor.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bor/bor.txt) (24,609 entries); this repository holds correction work.
+_Created: 03-09-2021 · Last updated: 05-07-2026_
+
+## Why this repo exists
+
+Anundoram Borooah's 1877 *English-Sanskrit Dictionary* — the one English→Sanskrit dictionary in the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL) collection, 24,609 entries mapping English headwords to Sanskrit glosses — was digitized decades ago from a 19th-century scan, and like every CDSL dictionary it carries digitization-era defects: punctuation misplaced relative to Devanāgarī clusters, markup oddities, encoding errors introduced by the original keyboarding pass. The canonical source lives in [`csl-orig/v02/bor/bor.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/bor/bor.txt), which is deliberately **not** where correction work happens (csl-orig takes only batched, validated PRs — see the org [`CLAUDE.md`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/CLAUDE.md) correction workflow). This repo is where that correction work is actually done: scripts that detect and fix a specific class of error, an audit trail of every change, and — as of 2026-06 — a faithful OCR + translation of the dictionary's front matter (title pages, prefaces, biography) that never existed in digital form at all.
 
 ## Documentation
 
@@ -110,6 +114,23 @@ pie showData
 - English headwords in bold (`{@…@}`); Sanskrit glosses in SLP1; italic display text in `{%…%}`; sense structure marked with `<div n="…">`.
 - Devanāgarī and IAST are generated at display time, not stored in the source.
 
+## Usage example (verified)
+
+[`csl_orig_issue_606/`](csl_orig_issue_606/) is a completed correction batch — 141,008 lines of corrected text, 40,315 lines flagged as Devanāgarī-encoding errors. The first real entry in the corrected file, [`bor_corrected.txt`](csl_orig_issue_606/bor_corrected.txt), shows the actual markup this repo works with:
+
+```
+[Page001]
+
+<L>1<pc>001<k1>a<k2>a
+<div n="lb"/>{@A@}¦ {%or%} (before vowels) AN: <div n="I">I This article
+<div n="lb"/>has no equiv. in Sanskrit and is expressed
+<div n="lb"/>by the singular number alone: <div n="xe">{%there is a%}
+<div n="lb"/>{%large silk-cotton tree on the banks of the Godavari%}</div>
+<div n="lb"/><div n="xs">{#asti godAvarItIre viSAlaH SAlmalItaruH#}</div> <ls>H.</ls> i.; ...
+```
+
+Reading `<k1>a<k2>a` as "headword: *a*", `{@A@}` as the bold English headword, and `{#...#}` as the SLP1-encoded Sanskrit example sentence confirms the format table above against real, committed data (verified by direct file read, not re-run of the correction script — [`shift_punctuation.py`](csl_orig_issue_606/shift_punctuation.py) mutates working files in place and was not re-executed here).
+
 ## How it works
 
 ```mermaid
@@ -153,3 +174,5 @@ Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents
 
 ---
 *Issue taxonomy and documentation per the [Cologne issue runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-issue-runbook.md).*
+
+_Dr. Mārcis Gasūns_
