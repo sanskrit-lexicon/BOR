@@ -7,7 +7,7 @@ language: ru
 translation_of: borpref22.md
 ---
 
-# СОКРАЩЁННЫЕ НАЗВАНИЯ ПРОИЗВЕДЕНИЙ [xxvii]
+# СОКРАЩЕННЫЕ НАЗВАНИЯ ПРОИЗВЕДЕНИЙ [xxvii]
 
 | Сокр. | Произведение |
 |---|---|
@@ -86,6 +86,6 @@ translation_of: borpref22.md
 | id., idem, | то же самое |
 | imper. | повелительное наклонение |
 | indecl. | несклоняемое |
-| indef. | неопределённый |
+| indef. | неопределенный |
 
 <sub>[Опечатки источника сохранены как в печати: «conjuction» вместо conjunction, «ideclinable» вместо indeclinable, «idenfinite» вместо indefinite.]</sub>
