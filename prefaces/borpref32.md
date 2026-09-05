@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_804_Image_0001.png
 source_page: App. II, 2
@@ -18,3 +20,5 @@ Service Examination in 1870. In 1869 he won the State Scholarship of £200 a yea
 "Sri Borooah was an Assamese by birth. He has been an exemplar to Assamese youths for the last half century, and even as such he has done great good to Assam. But it would be too provincial to call him Assamese and claim him for the little region of Assam. He really belonged to the region of literature. He is claimed by all scholars as belonging to their own class. He is claimed by all India as the enricher of her literature. He is claimed by Bengal, where he did his life-work. He is even claimed by the little town of Berhampur, where he possessed a local habitation, and where he intended to live and work after retirement from service. After satisfying all these claims, the little village of North Gauhati, where he had his parental home, will not have left much for her share. Nevertheless he was first an Assamese, and next all else, and it is an Assamese gentleman at last that has now first undertaken to write his biography, in spite a of all the claims of all the scholars from London to Berhampur.
 
 "Thanking you, Sri Bhuyan, for your courtesy in referring to me for any information I could possibly give you towards the compilation of your biography, and regretting very much that, not having ever come in personal contact with its subject, my contribution is necessarily poor and futile."
+
+_Dr. Mārcis Gasūns_

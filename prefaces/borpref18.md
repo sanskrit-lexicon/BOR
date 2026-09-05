@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_018_Image_0001.png
 source_page: Preface to Second Volume, 3
@@ -24,3 +26,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 \* I am sorry that I have not by me to compare the Dictionaries of Benfey, Roth, Gold-stuker and the Sanskrit Dictionary of Monier Williams. But considering that some of the mistakes are repeated in the latest Dictionary in preparation, I presume I have not been anticipated in all that I say.
 
 † मान in the sense of measure is neuter, in the sense of honour always masculine. Wilson has noted this, as well as other Dictionaries I have consulted. The rules of Pāṇini on gender and derivation shew this clearly.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_025_Image_0001.png
 source_page: Benediction
@@ -39,3 +41,5 @@ translation_of: borpref25.md
 
 ययोर्विततकारुण्यादारब्धमवसायितम् ।
 निदधे परया भक्त्या तयो: पित्रो: पदेष्विदम् ॥ ५ ॥
+
+_Dr. Mārcis Gasūns_

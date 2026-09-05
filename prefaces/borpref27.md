@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_799_Image_0001.png
 source_page: App. I, 2
@@ -18,3 +20,5 @@ Borooah returned to India in the autumn of 1872, and was appointed Assistant Com
 Borooah served as an Assistant Magistrate in several places in Bengal; and when after a prolonged agitation, which had as its great patron and supporter, Sir William Hunter, Indian Civilians were first entrusted with the charge of districts, Borooah and R. C. Dutt were eventually District Magistrates and Collectors. And as it is always the case, when Indians are given fair opportunities to prove their mettle they respond magnificently, Borooah and Dutt discharged their duties without any hitch or trouble and thereby paved the path for the Indians in securing the highest responsible posts under the Government.
 
 Borooah did not allow his literary zeal to be damped by the heavy responsibilities of a Magistrate's duties; there issued forth from his pen every year books after books—lexicons, grammars, editions of old Sanskrit texts and compilations from old Sanskrit authors. In 1881, Borooah projected the complilation of a comprehensive Grammar of the Sanskrit Language in twelve volumes of one thousand pages each, and to be able to consult the oriental books and manus-
+
+_Dr. Mārcis Gasūns_

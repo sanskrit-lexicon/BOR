@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_016_Image_0001.png
 source_page: Preface to Second Volume
@@ -30,3 +32,5 @@ But I will not rest there. Sanskrit itself contains abundant examples to illustr
 § V.p. iv. 3. 21.
 
 \* Almost every branch of science had special works and only a few are beginning to be printed. I may mention special works on elephants, horses, chariots etc. "कश्चित् सूत्राणि सर्वाणि गृह्णासि भरतर्षभ ! हस्तिसूत्राश्वसूत्राणि रथसूत्राणि वा विभो ॥" Mah. ii. 5. 120. Nīla Kaṇṭha, who is a modern commentator, is satisfied with stating "अश्वादीनां लक्षणपरीक्षाचिकित्सौषधोद्दीपनोन्मादनादिप्रकारप्रतिपादकग्रन्थान्।" But we learn more from the commentaries of Mallinātha. To "विनीतनाग: किल सूत्रकारैरनन्द्रं पदं भूमिगतोऽपि भुङ्क्ते" of Raghu. iv. 27, he adds "सूत्रकारैर्गजशास्त्रकृद्भि: पालकादिभिर्महर्षिभि:[?]।", In his notes to the fifth canto of Śiśupāla Vadha, he mentions three works on horses—Haya Lilābatī, Revata, and the compilation of Bhoja Rāja. The Sūtras have probably gone away with time. But modern compilations have not all perished. Our Calcutta friends, with abundant leisure, will do well to turn the attention to this field, which has not yet been touched by any scholar eastern or western, but nevertheless of immense interest to the readers of Sanskrit. I will here quote second-hand a passage from Bhoja Rāja (Mallināth's note to Śiśupāla Vadha v. 10.)—
+
+_Dr. Mārcis Gasūns_

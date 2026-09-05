@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_011_Image_0001.png
 source_page: Preface to First Volume
@@ -22,3 +24,5 @@ The want of a practical English-Sanskrit Dictionary is felt so much at the prese
 ‡Take, for instance, the word देवी. In the Amara Koṣa, it is stated that a queen is called देवी in theatrical language. If Amara Siṃha had said "in addressing," he would have been half correct, for in no dramatic work a queen of a country is called *its* देवी. But it is not difficult to shew that the term is not confined to the drama. I will not quote Kādambarī which may be regarded as a poem by the conservative Sanskritists but refer for its use to the fifth tale in the first part of the simple Panchatantra, which never smells of inflated style and does not come under the technical definition of poem.
 
 §For instance, he groups together पञ्चता, कालधर्म, दिष्टान्त, प्रलय, अत्यय, अन्त, नाश, मृत्यु, मरण, निधन The only equivalents of *death* in this group are मृत्यु and मरण. The other words respectively mean "*fivefold stage*", "*effect of time*", "*fated end*", "*dissolution*", "*departure*", "*end*", "*destruction*", "*perishing*" and as in English sometimes signify *death*. (Comp. "we expected immediate dissolution", Tilton). But if these words are to be reckoned as synonyms of death, we might as well include दीर्घनिद्रा, दीर्घप्रवास, दीर्घतमस्, स्वर्गगमन, and a hundred other similar expressions. To this illogical and mischievous grouping of words is to be ultimately traced the severe, but most unjust remarks of the historian Mill about the capabilities of the Sanskrit language as a medium of conveying one's thoughts correctly and accurately.
+
+_Dr. Mārcis Gasūns_

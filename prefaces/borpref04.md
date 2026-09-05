@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_004_Image_0001.png
 source_page: Foreword
@@ -14,3 +16,5 @@ As Monier Williams says in the Preface to his English-Sanskrit Dictionary, an ab
 The first effort to provide an English-Sanskrit Dictionary was that of Monier Williams, who produced his work 'A Dictionary of English and Sanskrit' under the patronage of the East India Company in 1851, i.e. twenty years before he brought out his better known Sanskrit-English Dictionary. Regarding the all-round importance of such a Dictionary he pointed out in his Preface to it that it would be helpful even to those who use the modern Indian languages, as "no vernacular tongue is adequate to express the ideas of religion and science without borrowing its terms from the Sanskrit" (p. iii) and that "the influence which it (Sanskrit) exercises on the spoken dialects of India" was "far greater than that of Latin, or English, Italian or French." (p. iii). The labour involved and the method of compilation followed for his pioneering work in about 860 pages are set forth by him in the same Preface. According to his statement, it took him eight years to complete his English-Sanskrit Dictionary.
 
 Twentyfive years after this, the pioneer Indian scholar to undertake an English-Sanskrit Dictionary was Anundoram Borooah who was also the pioneer in the whole field of modern Sanskrit scholarship among the Assamese. Born in 1850, an I.C.S. Officer in 1872, Borooah enjoyed hardly a decade and a half for his literary career and yet within that brief span, he undertook and accomplished more than one literary project, besides editing and publishing some important Sanskrit classics. In 1881, this modern Assamese Amarasiṃha, who had mastered his *Amarakoṣa* at fourteen, planned a work in Sanskrit grammar more arduous and prodigious than the undertakings of Bhandarkar or any other scholar, a comprehensive Sanskrit grammar in twelve volumes of one thousand
+
+_Dr. Mārcis Gasūns_

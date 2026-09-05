@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_798_Image_0001.png
 source_page: App. I Biography of Borooah
@@ -18,3 +20,5 @@ Borooah is a fine flower of western culture. The profound erudition of the orien
 *Life:* Anundoram Borooah, B.A., I.C.S., Barrister-at-Law, was born in May, 1850, at North Gauhati in the district of Kamrup, Assam. This Kamrup forms at present only a fragment of the greater Kamrupa Empire of yore, hallowed by the names of Narakasur, Bhagadatta, Bana, Bhaskara Varma, Naranarayan, Pratap Singha Swargadeo and Rudra Singha Swargadeo among her kings; Jongal Balahu, Cilarai and Lachit Bar Phukon among her heroes and soldiers; Usha, Rukmini, Behula, Joymati and Phuleswari Barkuanri among her women; Dak, Sankar Deva, Madhava Deva, Purusottam Vidyabagish and Anundoram Dhekial Phukon among her saints and literateurs; and Momai Tamooli Barborooah and Rajmantri Purnananda Buragohain among her ministers and statesmen. Anundoram belonged to the well-known Majindar Borooah family of Assam. His father, an Assamese gentleman of the older type, was for some years a *Sadar Amin*, a post equivalent to a modern Deputy Magistrateship.
 
 Through the efforts of his learned father, Anundoram was initiated into the vast poentialities of the *Deva Bhasha* even during his childhood. With the help of an erudite Sanskrit Pandit who was appointed to teach him Sanskrit, Anundoram mastered and got by heart the whole of the immortal lexicon *Amarakosha* before he was fourteen, at which age he also passed the Entrance Examination of the Calcutta University. He read for the first Arts Examination in the Presidency College of Calcutta, and there he had as his teachers the great educationists, Mahamahopadhyaya Mohesh Chandra Nyayaratna, C.I.E. in Sanskrit, and Sir (then Sri) Gurudas Banerji in Mathematics. Boroorah had as his class-mates the late R. C. Dutt, I.C.S., B. L. Gupta, I.C.S., and Kartick Chandra Mitra, M.A., P.R.S, and as his contemporary college friends the Right Honourable Syed
+
+_Dr. Mārcis Gasūns_

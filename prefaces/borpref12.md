@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_012_Image_0001.png
 source_page: Preface to First Volume, 2
@@ -20,3 +22,5 @@ my humble acquirements, conscious alike of the poverty of intellectual gifts whi
 ---
 
 \*The size of the work will be much larger than I expected in March 1876. I am sorry I have in consequence to raise the price of the work and to publish it in three instead of two volumes. I also regret the delay in its appearance owing to causes which I need not allude to. But I hope the second volume will be more punctually out by the beginning and the third by the end of the next year.
+
+_Dr. Mārcis Gasūns_

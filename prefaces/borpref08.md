@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_008_Image_0001.png
 source_page: Introduction to Edition, 2
@@ -30,3 +32,5 @@ Lord Northbrooke, Viceroy and Governor General of India, said about the book, "I
 Prof. F. Max Müller in a letter to Anundoram said, "Your work is evidently not simply a Sanskrit-English dictionary mechanically inverted, but you have treated each word independently, and by giving the nearest approach to each English word in Sanskrit, you have shown your familiarity with the idioms of both languages. The passages from Sanskrit writers, illustrative of the employment of Sanskrit words, are extremely useful and gives to your work a really scholar-like character".
 
 Prof. Müller had also written in *"The Academy"* of 13th August, 1881, "We heartily congratulate Mr. Anundoram Borooah on the completion of his *English-Sanskrit Dictionary.* We have dwelt on former occasions, when noticing the appearance of his first and second volumes, on the great difficulties of such an undertaking, and we have no hesitation in saying that it would be almost impossible for a European Sanskrit scholar to undertake such a work and carry it
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_806_Image_0001.png
 source_page: App. II, 4
@@ -16,3 +18,5 @@ in 1878, viz. his "Companion to the Sanskrit-reading Undergraduates of the Calcu
 "Evidently well-grounded in Panini (and where, I would ask the advocates of English education for India, can we find a finer educational instrument than the great Indian Grammars studied in the light of modern research?), Vaduya brought to bear on the criticism of Sanskrit texts, something of the spirit of what we understand by classical scholarship. He neither discusses the old scholiasts and grammarians with the slavish obsequiousness of a mere follower of tradition, nor yet ignores them like the uninitiated foreign critic, but rather weighs one with another and adjusts the results by the standard of modern research.
 
 "Such seems to me the character of Vaduya's work, and it is because I so strongly feel the value of his example to all of us oriental students, whether European or native, that I have ventured to draw out this notice to greater length than I had at first intended."
+
+_Dr. Mārcis Gasūns_

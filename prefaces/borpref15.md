@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_015_Image_0001.png
 source_page: Preface to First Volume, 5
@@ -19,3 +21,5 @@ May 9th, 1877
 ---
 
 \*As regards the Governments of India and Bengal, I may say that His Honour the Lieutenant-Governor of Bengal has been pleased to express that he will pass orders about it on the appearance of my work.
+
+_Dr. Mārcis Gasūns_

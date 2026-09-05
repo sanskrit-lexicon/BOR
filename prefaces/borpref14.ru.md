@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_014_Image_0001.png
 source_page: Preface to First Volume, 4
@@ -22,3 +24,5 @@ translation_of: borpref14.md
 ---
 
 \* Страницы с 17 по 20 настоящего издания.
+
+_Dr. Mārcis Gasūns_

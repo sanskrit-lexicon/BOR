@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_017_Image_0001.png
 source_page: Preface to Second Volume, 2
@@ -34,3 +36,5 @@ slight extent, that such and such classes of words have no representatives in Sa
 \* It is good English to say that *a work is by so and so*. But it is not Bengali to say [অমুক পুস্তক অমুককৃত] (Bengali). Yet the Anglicism is retained in every book almost imperceptibly.
 
 † Hippopotamus is rendered सिन्धुघोटक evidently because it means in Greek *river-horse*. But I believe the author of the word never saw the animal and it is doubtful whether he would have called it a घोटक if he had seen it.
+
+_Dr. Mārcis Gasūns_

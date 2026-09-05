@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_019_Image_0001.png
 source_page: Preface to Second Volume, 4
@@ -23,3 +25,5 @@ translation_of: borpref19.md
 ---
 
 \* वृद्धव्यवहार [маркер сноски присутствует; текст сноски не на этом скане — приходится на промежуточную страницу (xxii–xxiii), не включенную в подборку передней части].
+
+_Dr. Mārcis Gasūns_

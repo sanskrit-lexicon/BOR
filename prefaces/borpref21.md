@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_021_Image_0001.png
 source_page: Abbreviations of Works, 2
@@ -91,3 +93,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ‡The Roman numerals refer to the number the parts, and the Arabic to the number of the story.
 
 §The Roman numerals refer to the chapters in the first part, and the Arabic to the number of the aphorism.
+
+_Dr. Mārcis Gasūns_

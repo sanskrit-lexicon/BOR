@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_015_Image_0001.png
 source_page: Preface to First Volume, 5
@@ -21,3 +23,5 @@ translation_of: borpref15.md
 ---
 
 \*Что касается правительств Индии и Бенгалии, я могу сказать, что Его Честь вице-губернатор Бенгалии соизволил выразить, что он отдаст распоряжения об этом по выходе моего труда.
+
+_Dr. Mārcis Gasūns_

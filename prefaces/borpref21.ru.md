@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_021_Image_0001.png
 source_page: Abbreviations of Works, 2
@@ -93,3 +95,5 @@ translation_of: borpref21.md
 ‡Римские цифры указывают на номер части, а арабские — на номер рассказа.
 
 §Римские цифры указывают на главы в первой части, а арабские — на номер афоризма.
+
+_Dr. Mārcis Gasūns_

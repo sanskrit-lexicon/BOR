@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_003_Image_0001.png
 source_page: Publisher
@@ -22,3 +24,5 @@ translation_of: borpref03.md
 *Печать* [?]
 
 [Библиотечный штамп: Universität zu Köln · Institut für Indologie; рукописный шифр хранения: Inventar M – 6658]
+
+_Dr. Mārcis Gasūns_

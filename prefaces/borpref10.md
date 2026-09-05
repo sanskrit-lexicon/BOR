@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_010_Image_0001.png
 source_page: Introduction to Edition, 4
@@ -30,3 +32,5 @@ July 1, 1971
 <div style="text-align:right">CHANDRA PRASAD SAIKIA<br/>
 <em>Secretary</em><br/>
 <em>Publication Board, Assam</em></div>
+
+_Dr. Mārcis Gasūns_

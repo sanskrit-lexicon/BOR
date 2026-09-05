@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_805_Image_0001.png
 source_page: App. II, 3
@@ -24,3 +26,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ---
 
 \*Sri Borooah was at the time of his death Offg. District Magistrate and Collector, Noakhali. He had then completed 16 years of service.
+
+_Dr. Mārcis Gasūns_

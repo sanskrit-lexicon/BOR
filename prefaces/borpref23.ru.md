@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_023_Image_0001.png
 source_page: Other abbreviations, 2
@@ -68,3 +70,5 @@ translation_of: borpref23.md
 | v.i. | глагол непереходный |
 | v.t. | глагол переходный |
 | voc. | звательный падеж |
+
+_Dr. Mārcis Gasūns_

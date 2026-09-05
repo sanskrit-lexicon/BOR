@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `borprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `borprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BOR/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1063,3 +1065,5 @@ Publication Board, Assam (Издательский совет Ассама)
 <sub>Источник (скан): [bor_Page_808_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/borpref/borpref36.html)</sub>
 
 Индийской гражданской службы он сочетал обязанности администратора с необычайной преданностью литературе, и ко времени своей смерти, насколько я понимаю, он был занят подготовкой словаря (грамматики) санскритского языка, который, увы, так и не увидел света. Его случай был случаем загубленной надежды, которая в своем расцвете обогатила бы мир словесности».
+
+_Dr. Mārcis Gasūns_

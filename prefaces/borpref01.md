@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_001_Image_0001.png
 source_page: Books by Borooah
@@ -22,3 +24,5 @@ Publication Board, Assam
 5. BHAVABHŪTI AND HIS PLACE IN SANSKRIT LITERATURE
 6. ANCIENT GEOGRAPHY OF INDIA
 7. NĀMALIṄGĀNUŚĀSANA
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_019_Image_0001.png
 source_page: Preface to Second Volume, 4
@@ -21,3 +23,5 @@ Oct. 27, 1878
 ---
 
 \* वृद्धव्यवहार [footnote marker present; footnote text not on this scan — falls on an intervening page (xxii–xxiii) not included in the front-matter selection].
+
+_Dr. Mārcis Gasūns_

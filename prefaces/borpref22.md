@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_022_Image_0001.png
 source_page: Abbreviations of Works, 3; Other abbreviations
@@ -87,3 +89,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | indef. | idenfinite |
 
 <sub>[Source typos preserved as printed: "conjuction" for conjunction, "ideclinable" for indeclinable, "idenfinite" for indefinite.]</sub>
+
+_Dr. Mārcis Gasūns_

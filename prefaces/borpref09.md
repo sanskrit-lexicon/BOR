@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_009_Image_0001.png
 source_page: Introduction to Edition, 3
@@ -20,3 +22,5 @@ The *Englishman* of August 6, 1877 said, "Mr. A. Borooah's *English-Sanskrit Dic
 "It is pleasant to find one of our native Civilians employing his few leisure moments in this occupation. The charge originally brought against them is that they despise the literature and customs of their forefathers.
 
 "Mr. A. Borooah has shown that his mastery of Western thought by no means disqualifies him for the most minute and painstaking study of the ancient literature of his native land. At the same time he has learnt in the West that the object of all study is enlightenment, not obscuration, and he is not ashamed to furnish *Mlecchas* with the means of clothing their barbarous ideas in elegant Sanskrit. Now that the improvement of the language which is the only key to Hindu customs and Hindu ideas is thoroughly recognised in Europe, we may anticipate that Mr. Borooah's work will obtain all the recognition it deserves. It seems to us far more perfect in its way than the English-Sanskrit vocabularies which aided, or rather worried, the students of twenty years ago. ...It must be admitted that the work will be very useful to those who study Sanskrit with other ends in view than the acquisition of government prizes. Writing makes an accomplished man in Sanskrit as in every other language, and those who wish to acquire an accomplished knowledge of Sanskrit cannot do better than provide themselves with Mr. Anundoram Borooah's work."
+
+_Dr. Mārcis Gasūns_

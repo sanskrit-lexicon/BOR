@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_023_Image_0001.png
 source_page: Other abbreviations, 2
@@ -66,3 +68,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 | v.i. | verb, intransitive |
 | v.t. | verb, transitive |
 | voc. | vocative |
+
+_Dr. Mārcis Gasūns_

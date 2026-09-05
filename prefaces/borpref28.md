@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_800_Image_0001.png
 source_page: App. I, 3
@@ -18,3 +20,5 @@ In the winter of 1888 Borooah became ill. A sudden attack of paralysis, aggravat
 This was followed by an edition of Bhavabhuti's *Mahaviracharitam* with Borooah's lucid commentary in Sanskrit called *Janakiramabhasya*, after his beloved brother Janakiram Borooah. Borooah's next literary ventures were, first, a critical dissertation, named *Bhavabhuti and his place in Sanskrit literature*, which contained an exhaustive treatment of the *Ramaic* drama, besides Bhabhuti and his age; and secondly, *A Companion to the Sanskrit-reading under-graduates of the Calcutta University*, being a few notes on the Sanskrit texts selected for the F.A. and B.A. Examinations. Small though in bulk, the latter books are an important contribution to Sanskrit scholarship. Borooah's comments were suggestive rather than detailed.
 
 The next literary enterprise of Borooah was, to quote Mr. R. C. Dutt's words, "a Sanskrit grammar of formidable size and erudition." In 1881, Borooah projected the compilation of *A Comprehensive Grammar of the Sanskrit Language: Critical, Analytical and Historical*, in twelve volumes
+
+_Dr. Mārcis Gasūns_

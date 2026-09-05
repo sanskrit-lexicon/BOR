@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_003_Image_0001.png
 source_page: Publisher
@@ -20,3 +22,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 *Printed By* [?]
 
 [Library stamp: Universität zu Köln · Institut für Indologie; handwritten shelf-mark: Inventar M – 6658]
+
+_Dr. Mārcis Gasūns_

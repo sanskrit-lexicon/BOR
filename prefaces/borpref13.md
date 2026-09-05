@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_013_Image_0001.png
 source_page: Preface to First Volume, 3
@@ -18,3 +20,5 @@ or for a limited class of ideas. Take, for instance, the word णिजन्त
 10. Besides simple words, there are many compound words and phrases which must necessarily be taken cognizance of in a work of this kind. But in such cases, my object has been to give idiomatic, but not necessarily, literal equivalents. For instance, I give दिनमणि as the equivalent of "day-star" not because मणि corresponds with star, but because the compound fully expresses the idea of the English expression and has been used in the same sense by Sanskrit writers.
 
 11. With these preliminary remarks, I may say that I have prominently marked the different senses of English words, specially when they are represented by different Sanskrit equivalents. I have used much care to find out the nearest and most common equivalents in each sense and taken great pains to arrange them according to their usefulness and frequency. I have attempted to note their construction briefly, when peculiar or different from the construction of the corresponding English words. I have tried to illustrate their use by citations from classical writers,
+
+_Dr. Mārcis Gasūns_

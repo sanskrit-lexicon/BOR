@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_007_Image_0001.png
 source_page: Introduction to Edition
@@ -14,3 +16,5 @@ People of today cannot but marvel at Anundoram Borooah's stupendous creative gen
 Anundoram Borooah's entire life was dedicated to literary pursuits. In fact, the story of his brief life may be said to be a story of the love and devotion which inspired his studies of Sanskrit literature. Only a few others can rival him in the zeal that he brought to bear upon his efforts to restore Sanskrit literature to its rightful pre-eminent position. The noble faith that informed his pursuit of Sanskrit literature is clearly expressed in the following words quoted from the book, *Mahāvīracharita:* "To me, Sanskrit is dearer than any other language. Its music has charms which no words can express. Its capability of representing every form of human thought in most appropriate language is probably not rivalled, certainly not surpassed, by any other language. Most touching scenes have been drawn in heart-rending words. Most noble images have been clothed in most sublime language. Most terrific pictures have been couched in terror-producing expressions; and among the foremost to elevate the language and enrich the literature of ancient India stands the name of our poet Vaśyavāk Kāśyapa Bhavabhūti Śrikaṇṭha. His plays have been all translated into English, two by more than one writer, and it can be confidently predicted that before another hundred years, they will be rendered into almost every language of civilized Europe. May we hope that with the diffusion of Sanskrit, he will be as appreciated in the farthest corners of the world as he is on the banks of the Śiprā and near the ruins of Vijayanagara."
 
 There is hardly any scope for adding to what Anundoram Borooah himself had said about this great book in his illuminating and comprehensive preface. It was originally published about a hundred years ago (1877) in three parts. After Monier William's *English-Sanskrit Dictionary*, Anundoram's is the second lexicon of its kind to be compiled anywhere in the world. This monu-
+
+_Dr. Mārcis Gasūns_

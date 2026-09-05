@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_803_Image_0001.png
 source_page: App. II, Appreciation of Borooah
@@ -20,3 +22,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 "I am in receipt of your letter of the 14th instant, in which you ask me to contribute whatever reminiscences I have of the late Sri A. Borooah, towards the compilation of his biography that you have undertaken, as you are under the impression that I was a close friend of his, and that therefore I was in a position to tell you many things about him. Excuse me saying that you are mistaken in both these respects. I was no personal friend of Sri A. Borooah, indeed I hardly ever came in contact with him; and consequently I can tell you very little about him that is not well-known to anybody else. He was too great a genius and a too sedentary worker to be a close friend of any man.
 
 "I met him in school days in Assam for two or three years, but we hardly exchanged a word, as he had the habit of being rather reserved, exclusive, and too attentive to his books, which unfortunately I was not. Since he left Assam after passing the Entrance Examination in 1864, we never met again. I was not in Calcutta when he was there, I was not in England when he was there. His service was mostly in Bengal, and mine in Assam. So, except for a little correspondence on business matters, I had never come across him. But I knew that he had a great aptitude for Sanskrit studies, for he was known to have been able to recite from memory the whole of Amarakosha even at the early age of 12 or 14. He had an aptitude for Mathematics in 1866 at the First Arts Examination of the Calcutta University, and I believe first too in the Indian Civil
+
+_Dr. Mārcis Gasūns_

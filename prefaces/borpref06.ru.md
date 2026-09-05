@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_006_Image_0001.png
 source_page: Foreword, 3
@@ -23,3 +25,5 @@ translation_of: borpref06.md
 10-2-71
 
 <div style="text-align:right">В. РАГХАВАН</div>
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `borprefNN.md`. Index: [README.md](README.md).
+Per-page files: `borprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/BOR/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -1059,3 +1061,5 @@ Sri Dutt adds in a footnote to this passage: "Since the above lines were written
 <sub>Source (scan): [bor_Page_808_Image_0001.png](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/borpref/borpref36.html)</sub>
 
 of the Indian Civil Service he combined the duties of an administrator with extraordinary devotion to literature, and at the time of his death, I understand, he as engaged in preparing a dictionary (grammar) of the Sanskrit language which, alas, never saw the light. His was a case of blighted promise which in its fruition would have enriched the world of letters."
+
+_Dr. Mārcis Gasūns_

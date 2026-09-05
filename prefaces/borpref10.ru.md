@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_010_Image_0001.png
 source_page: Introduction to Edition, 4
@@ -32,3 +34,5 @@ translation_of: borpref10.md
 <div style="text-align:right">ЧАНДРА ПРАСАД САЙКИА<br/>
 <em>Секретарь</em><br/>
 <em>Издательский совет, Ассам</em></div>
+
+_Dr. Mārcis Gasūns_

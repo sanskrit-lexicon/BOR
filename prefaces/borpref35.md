@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_807_Image_0001.png
 source_page: APP. III, Obituaries of Borooah
@@ -32,3 +34,5 @@ Sri Dutt adds in a footnote to this passage: "Since the above lines were written
 5. *Sir Surendranath Banerjee*, in his autobiography '*A Nation in Making*', 1931, writes:
 
 "Among the Indian candidates who competed with us for the Indian Civil Service in 1869 was another remarkable man whose early death deprived the world of a Sanskrit scholar of great promise—I mean Anundoram Borooah. In regard to him also there was the difficulty about the age to which I have referred; but, the point having been settled in my case, it was no longer raised in his. He came from Assam and distinguished himself at the examinations of the Calcutta University. Having obtained a state scholarship, he went to England to compete for the Indian Civil Service. He secured a place for himself among the successful candidates in 1870. As a member
+
+_Dr. Mārcis Gasūns_

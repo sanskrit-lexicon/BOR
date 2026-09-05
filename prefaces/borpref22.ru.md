@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_022_Image_0001.png
 source_page: Abbreviations of Works, 3; Other abbreviations
@@ -89,3 +91,5 @@ translation_of: borpref22.md
 | indef. | неопределенный |
 
 <sub>[Опечатки источника сохранены как в печати: «conjuction» вместо conjunction, «ideclinable» вместо indeclinable, «idenfinite» вместо indefinite.]</sub>
+
+_Dr. Mārcis Gasūns_

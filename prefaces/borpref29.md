@@ -1,3 +1,5 @@
+_Created: 23-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: bor_Page_801_Image_0001.png
 source_page: App. I, 4
@@ -20,3 +22,5 @@ Borooah was a Sanskrit poet of no mean order. In his edition of *Mahaviracharita
 To Borooah, "Sanskrit is dearer than any other language. Its music has charms which no words can express. Its capability of representing every form of human thought in most appropriate language is probably not rivalled, certainly not surpassed by any other language." Borooah always regretted that "Sanskrit research seemed yet to attract very few scholars", and he hoped "that the day is not distant when our countrymen will care more for our home literature than they do now for Shakespeare and Bacon, for Addison and Johnson".
 
 Borooah's broader outlook, his intense love of Sanskrit, and his realisation of the glorious past and the present decadence of the *Deva Bhasha* led him to neglect the more immediate demand of his own mother language and literature, viz. Assamese, which could not well afford to spare a man of genius of Sri Borooah's calibre from its service; but on the other hand, it freed him from the provincial patriotism which sometime forces people to lose sight of the greater demands of our common mother India. Borooah used to say when any of his zealous countrymen tried to impress upon his mind the necessity of diverting his literary activities towards the cause of Assamese language and literature,—"whatever I do for our common mother India will be
+
+_Dr. Mārcis Gasūns_
