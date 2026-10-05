@@ -1,5 +1,7 @@
 # BOR — Borooah *English-Sanskrit Dictionary*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23151307.svg)](https://doi.org/10.5281/zenodo.23151307)
+
 _Created: 14-09-2021 · Last updated: 14-07-2026_
 
 ## Why this repo exists
